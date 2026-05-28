@@ -90,7 +90,7 @@ return [
             'desc' => 'Pallet berbahan plastik HDPE yang kuat, tahan lama, dan anti-rayap untuk kebutuhan gudang dan logistik.',
             'min_order' => '10 Pcs',
             'features' => ['Kapasitas beban statis/dinamis tinggi', 'Mudah dibersihkan', 'Cocok untuk forklift & hand pallet'],
-            'image' => 'https://m.media-amazon.com/images/I/61X-uF7aR9L._AC_SL1500_.jpg',
+            'image' => 'https://media.monotaro.id/mid01/full/Pengepakan%2C%20Plester%20%26%20Logistik/Produk%20Logistik/Pelindung%20Palet/Palet/Non%20Brand%20Palet%20Plastik%20Bekas/Non%20Brand%20Palet%20Plastik%20Bekas%20Black%20110x110x12cm%201unit/79S032811261-1.jpg',
             'is_best_seller' => true,
         ],
         [
@@ -194,7 +194,7 @@ return [
             'desc' => 'Penyedot debu basah & kering (Wet & Dry Vacuum) untuk perkantoran dan industri.',
             'min_order' => '1 Unit',
             'features' => ['Daya hisap kuat', 'Kapasitas tangki besar', 'Bisa untuk air dan debu kering'],
-            'image' => 'https://m.media-amazon.com/images/I/71u9sWnI0KL._AC_SL1500_.jpg',
+            'image' => 'https://cdn.ruparupa.io/fit-in/400x400/filters:format(webp)/filters:quality(90)/ruparupa-com/image/upload/Products/10100236_1.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -204,7 +204,7 @@ return [
             'desc' => 'Sikat kloset, cairan pembersih, pengharum ruangan, dan kapur barus.',
             'min_order' => '5 Set',
             'features' => ['Membersihkan noda membandel', 'Menghilangkan bau tidak sedap', 'Sikat berdesain melengkung'],
-            'image' => 'https://m.media-amazon.com/images/I/71f-0eM+CPL._AC_SL1500_.jpg',
+            'image' => 'https://media.monotaro.id/mid01/full/Alat%20%26%20Kebutuhan%20Kebersihan/Alat%20Kebersihan/Ember/CLEANTOOLS%20Troli%20Kebersihan/CLEANTOOLS%20Troli%20Kebersihan%20CT-030%201unit/S009870907-1.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -214,7 +214,7 @@ return [
             'desc' => 'Papan peringatan lantai basah (Caution Wet Floor) untuk keselamatan area publik.',
             'min_order' => '5 Pcs',
             'features' => ['Warna kuning terang mencolok', 'Desain lipat mudah disimpan', 'Tulisan peringatan bilingual'],
-            'image' => 'https://m.media-amazon.com/images/I/71M27a00fTL._AC_SL1500_.jpg',
+            'image' => 'https://media.monotaro.id/mid01/full/Keselamatan%20Kerja(K3)%2C%20Perlindungan%20Diri%20%26%20Kesehatan/Rambu%20Keselamatan/Rambu%20Tempat%20Kerja/Stan%20Informasi/GOSAVE%20Wet%20Safety%20Sign/GOSAVE%20Wet%20Safety%20Sign%20Hati-hati%20Lantai%20Licin%20Yellow%201pc/82S031896290-1.jpg',
             'is_best_seller' => false,
         ],
     ]
