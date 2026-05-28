@@ -61,7 +61,7 @@ $productList = config('products.items');
             class="flex items-center gap-2 py-2.5 px-5 rounded-full text-xs sm:text-sm font-semibold transition-all duration-300 border cursor-pointer"
           >
             @if($cat['icon'])
-              <i data-lucide="{{ $cat['icon'] }}" class="w-4 h-4 {{ $cat['id'] === 'best-seller' && $cat['id'] !== activeCategory ? 'text-emerald-500' : '' }}"></i>
+              <i data-lucide="{{ $cat['icon'] }}" class="w-4 h-4" :class="activeCategory !== 'best-seller' && '{{ $cat['id'] }}' === 'best-seller' ? 'text-emerald-500' : ''"></i>
             @endif
             <span>{{ $cat['name'] }}</span>
           </button>
@@ -102,7 +102,7 @@ $productList = config('products.items');
                   @endif
 
                   <!-- Product Image Frame -->
-                  <div class="relative aspect-[16/10] overflow-hidden bg-slate-100">
+                  <div class="relative aspect-16/10 overflow-hidden bg-slate-100">
                     <img 
                       src="{{ $prod['image'] }}" 
                       alt="{{ $prod['name'] }}"

@@ -58,7 +58,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-0">
                     
                     <!-- Product Image -->
-                    <div class="relative bg-slate-100 h-64 sm:h-96 md:h-full min-h-[300px]">
+                    <div class="relative bg-slate-100 h-64 sm:h-96 md:h-full min-h-75">
                         @if($product['is_best_seller'])
                             <div class="absolute top-4 left-4 bg-emerald-500 text-white font-bold text-xs uppercase tracking-wider py-1.5 px-4 rounded-full shadow-lg z-10 flex items-center gap-1.5 animate-pulse-slow">
                                 <i data-lucide="star" class="w-3.5 h-3.5 fill-current"></i>
