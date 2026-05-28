@@ -9,6 +9,28 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+// Temporary password reset route (DELETE THIS AFTER TESTING!)
+Route::get('/reset-password-temp', function () {
+    if (env('APP_ENV') !== 'production') {
+        return 'Only available in production';
+    }
+    
+    $key = request('key');
+    if ($key !== env('APP_KEY')) {
+        return 'Invalid key';
+    }
+    
+    \App\Models\User::updateOrCreate(
+        ['email' => 'admin@mtn.com'],
+        [
+            'name' => 'Admin MTN',
+            'password' => \Illuminate\Support\Facades\Hash::make('password123'),
+        ]
+    );
+    
+    return '✅ Admin password reset to: password123';
+});
+
 Route::post('/inquiries', [InquiryController::class, 'store']);
 
 Route::prefix('admin')->group(function () {
