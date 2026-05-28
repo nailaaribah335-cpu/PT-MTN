@@ -18,7 +18,7 @@ return [
             'desc' => 'Helm pelindung kepala standar SNI untuk keselamatan kerja di proyek dan industri.',
             'min_order' => '10 Pcs',
             'features' => ['Standar SNI & ANSI', 'Bahan HDPE berkualitas', 'Tersedia berbagai warna (Kuning, Putih, Merah, dll)'],
-            'image' => 'https://images.unsplash.com/photo-1508962914676-134849a727f0?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://image.ska-safety.com/s3/productimages/webp/co1285/p542366/w600-h600/392fb696-24cf-4d3a-86c0-9e8ac3838d34w.png',
             'is_best_seller' => false,
         ],
         [
@@ -28,7 +28,7 @@ return [
             'desc' => 'Rompi proyek high-visibility dengan pita reflektif untuk keamanan kerja siang dan malam.',
             'min_order' => '1 Lusin (12 Pcs)',
             'features' => ['Pita reflektif terang', 'Bahan jaring/polyester nyaman', 'Tersedia ukuran all-size'],
-            'image' => 'https://images.unsplash.com/photo-1621252179027-94459d278660?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://image.ska-safety.com/s3/productimages/webp/co1285/p548100/w600-h600/704de808-0764-44e2-b813-29d357c1cce4w.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -38,7 +38,7 @@ return [
             'desc' => 'Sepatu keselamatan kerja dengan ujung besi (steel toe cap) pelindung benturan dan anti-slip.',
             'min_order' => '5 Pasang',
             'features' => ['Ujung pelindung besi tahan tekanan', 'Sol karet anti-slip & tahan minyak', 'Desain tangguh untuk lapangan'],
-            'image' => 'https://images.unsplash.com/photo-1595079676339-1534801ad6cf?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://image.ska-safety.com/s3/productimages/webp/co1285/p1551900/w600-h600/1751fb03-8a3c-49a9-b1d6-da2ccceb43f4.png',
             'is_best_seller' => true,
         ],
         [
@@ -48,7 +48,7 @@ return [
             'desc' => 'Kacamata pelindung untuk melindungi mata dari debu, percikan material, dan sinar UV.',
             'min_order' => '2 Lusin (24 Pcs)',
             'features' => ['Lensa polycarbonate anti-gores', 'Desain ergonomis & nyaman', 'Tersedia lensa bening & gelap'],
-            'image' => 'https://images.unsplash.com/photo-1585435421671-0c16764628ce?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://image.ska-safety.com/s3/productimages/webp/co1285/p1521882/w600-h600/8f22b22e-c654-4c52-be9c-5243612bbd4c.png',
             'is_best_seller' => true,
         ],
         [
@@ -58,7 +58,7 @@ return [
             'desc' => 'Masker filter pernapasan untuk melindungi dari debu, gas, dan partikel berbahaya.',
             'min_order' => '10 Pcs',
             'features' => ['Filter cartridge yang dapat diganti', 'Katup pernapasan ganda', 'Silikon lembut pas di wajah'],
-            'image' => 'https://images.unsplash.com/photo-1586942971206-8d6fcf4a54c9?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/4/48/SH9550-Cropped.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -68,7 +68,7 @@ return [
             'desc' => 'Berbagai jenis sarung tangan untuk proyek, industri, dan pekerjaan kasar.',
             'min_order' => '5 Lusin',
             'features' => ['Sarung tangan katun / bintik', 'Sarung tangan kulit heavy duty', 'Sarung tangan karet anti bahan kimia'],
-            'image' => 'https://images.unsplash.com/photo-1618335029312-3f17d3d57321?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/0/01/Centre_de_Documentaci%C3%B3_Museu_T%C3%A8xtil_de_Terrassa-_Reserves-_Teixits-_Guants002.JPG',
             'is_best_seller' => true,
         ],
         
@@ -80,7 +80,7 @@ return [
             'desc' => 'Set peralatan perkakas tangan esensial untuk kebutuhan pemeliharaan dan perbaikan.',
             'min_order' => '2 Set',
             'features' => ['Bahan material berkualitas', 'Grip anti-slip', 'Dilengkapi kotak penyimpanan'],
-            'image' => 'https://images.unsplash.com/photo-1581147036324-c104273c333f?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Glardon_Vallorbe_LA2442-0_140_mm_Swiss_cut_0_6-piece_needle_file_set.png',
             'is_best_seller' => true,
         ],
         [
@@ -90,7 +90,7 @@ return [
             'desc' => 'Pallet berbahan plastik HDPE yang kuat, tahan lama, dan anti-rayap untuk kebutuhan gudang dan logistik.',
             'min_order' => '10 Pcs',
             'features' => ['Kapasitas beban statis/dinamis tinggi', 'Mudah dibersihkan', 'Cocok untuk forklift & hand pallet'],
-            'image' => 'https://images.unsplash.com/photo-1587293852726-591eb345d3c7?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/1/18/Pallet_%28example_1%29.jpg',
             'is_best_seller' => true,
         ],
         [
@@ -100,7 +100,7 @@ return [
             'desc' => 'Plastik wrapping fleksibel untuk membungkus barang atau palet agar stabil dan aman dari debu/air.',
             'min_order' => '1 Dus (6 Roll)',
             'features' => ['Daya rekat dan regang kuat', 'Tersedia berbagai ketebalan (mikron)', 'Melindungi barang saat pengiriman'],
-            'image' => 'https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Pallet_wrapper.jpg',
             'is_best_seller' => true,
         ],
         [
@@ -110,7 +110,7 @@ return [
             'desc' => 'Lakban kemasan, lakban kain, isolasi bening/coklat, dan masking tape berbagai ukuran.',
             'min_order' => '1 Dus (72 Roll)',
             'features' => ['Daya rekat ekstra kuat', 'Tidak mudah putus', 'Tersedia untuk pengemasan berat (Heavy Duty)'],
-            'image' => 'https://images.unsplash.com/photo-1598465063071-331da294c6f3?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/8/89/Duct-tape.jpg',
             'is_best_seller' => true,
         ],
         [
@@ -120,7 +120,7 @@ return [
             'desc' => 'Kertas amplas untuk menghaluskan permukaan kayu, besi, maupun pengerjaan industri.',
             'min_order' => '50 Lembar / 1 Roll',
             'features' => ['Berbagai tingkat kekasaran (Grit)', 'Tahan air (Waterproof opsi)', 'Tahan aus untuk pemakaian lama'],
-            'image' => 'https://images.unsplash.com/photo-1586864387789-628af9feed72?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/9/90/Schleifpapier_verschiedene_Sorten.jpg',
             'is_best_seller' => true,
         ],
 
@@ -132,7 +132,7 @@ return [
             'desc' => 'Kebutuhan pengarsipan dan pencatatan kantor: buku tulis, map plastik, ordner dokumen.',
             'min_order' => '1 Lusin',
             'features' => ['Kualitas kertas standar ISO', 'Ordner kokoh untuk arsip tebal', 'Tersedia berbagai ukuran (A4, F4)'],
-            'image' => 'https://images.unsplash.com/photo-1586075010923-2dd4570fb338?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/d/d9/Lever_arch_file.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -142,7 +142,7 @@ return [
             'desc' => 'Kertas fotokopi, kertas print (70gsm/80gsm) ukuran A4/F4, dan berbagai ukuran amplop surat.',
             'min_order' => '1 Dus (5 Rim)',
             'features' => ['Putih bersih & tidak mudah macet', 'Gramatur presisi', 'Amplop dengan seal perekat'],
-            'image' => 'https://images.unsplash.com/photo-1590402421685-65d8a0c20a8d?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/2/25/Various_products_made_from_paper.JPG',
             'is_best_seller' => false,
         ],
         [
@@ -152,7 +152,7 @@ return [
             'desc' => 'Peralatan tulis harian untuk kantor dan industri. Pena gel, spidol permanen, pensil kayu/mekanik.',
             'min_order' => '10 Pack',
             'features' => ['Tinta lancar & cepat kering', 'Merek terpercaya (Snowman, Kenko, dll)', 'Spidol whiteboard/permanen'],
-            'image' => 'https://images.unsplash.com/photo-1568205612837-017257d2310a?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/e/e1/03-BICcristal2008-03-26.jpg',
             'is_best_seller' => false,
         ],
 
@@ -164,7 +164,7 @@ return [
             'desc' => 'Kain pel, alat pel dengan gagang, dan lobo mop untuk kebersihan lantai area luas.',
             'min_order' => '5 Set',
             'features' => ['Daya serap air tinggi', 'Gagang kokoh (alumunium/kayu)', 'Refill kain pel mudah diganti'],
-            'image' => 'https://images.unsplash.com/photo-1527515637-64213d2fbbd2?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Mop%2C_three_different_mop_handles.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -174,7 +174,7 @@ return [
             'desc' => 'Ember pemerasan kain pel (wringer bucket) kapasitas besar dengan roda penggerak.',
             'min_order' => '2 Unit',
             'features' => ['Kapasitas 20L - 36L', 'Pemeras tuas yang efisien', 'Bahan plastik industri awet'],
-            'image' => 'https://images.unsplash.com/photo-1618698188167-28d116c2c9d2?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/f/f5/Gotland-Bottarve_Museumshof_07.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -184,7 +184,7 @@ return [
             'desc' => 'Kantong plastik sampah hitam (Polybag) berbagai ukuran untuk kebutuhan domestik dan medis.',
             'min_order' => '50 Pack',
             'features' => ['Bahan tebal tidak mudah sobek', 'Tersedia ukuran 40x60 hingga 120x150 cm', 'Ramah lingkungan (opsional)'],
-            'image' => 'https://images.unsplash.com/photo-1611284446314-60a58ac0deb9?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Trash_bin_in_Paris.jpg',
             'is_best_seller' => true,
         ],
         [
@@ -194,7 +194,7 @@ return [
             'desc' => 'Penyedot debu basah & kering (Wet & Dry Vacuum) untuk perkantoran dan industri.',
             'min_order' => '1 Unit',
             'features' => ['Daya hisap kuat', 'Kapasitas tangki besar', 'Bisa untuk air dan debu kering'],
-            'image' => 'https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/8/86/Vacuum_cleaner_by_K%C3%A4rcher.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -204,7 +204,7 @@ return [
             'desc' => 'Sikat kloset, cairan pembersih, pengharum ruangan, dan kapur barus.',
             'min_order' => '5 Set',
             'features' => ['Membersihkan noda membandel', 'Menghilangkan bau tidak sedap', 'Sikat berdesain melengkung'],
-            'image' => 'https://images.unsplash.com/photo-1584820927498-cafe2c1110fc?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/8/87/Toilet_Brush.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -214,7 +214,7 @@ return [
             'desc' => 'Papan peringatan lantai basah (Caution Wet Floor) untuk keselamatan area publik.',
             'min_order' => '5 Pcs',
             'features' => ['Warna kuning terang mencolok', 'Desain lipat mudah disimpan', 'Tulisan peringatan bilingual'],
-            'image' => 'https://images.unsplash.com/photo-1606771147576-9d32ed57db38?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Wet_floor_sign.jpg',
             'is_best_seller' => false,
         ],
     ]
