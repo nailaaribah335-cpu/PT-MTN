@@ -93,7 +93,7 @@ $contactInfos = [
 
         <!-- Mock Map Card -->
         <x-scroll-reveal variant="fade-right" delay="200" class="grow flex">
-          <div class="relative rounded-2xl border border-slate-200 overflow-hidden aspect-video shadow-sm bg-slate-100 grow min-h-[220px] w-full">
+          <div class="relative rounded-2xl border border-slate-200 overflow-hidden aspect-video shadow-sm bg-slate-100 grow min-h-55 w-full">
             <!-- Map Illustration SVG -->
             <svg class="w-full h-full text-slate-300" viewBox="0 0 400 200" fill="none" stroke="currentColor">
               <path d="M 0,50 L 400,100" stroke-width="6" stroke-linecap="round" />
@@ -163,7 +163,7 @@ $contactInfos = [
               <p class="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-2">Topik Pengadaan Populer</p>
               <div class="flex flex-wrap gap-2">
                 @php
-                  $chips = ['Alat Tulis Kantor (ATK)', 'Laptop & Komputer', 'Alat Pelindung Diri', 'Mebel & Furniture', 'Printer & Toner', 'Jaringan & IT'];
+                  $chips = ['Alat Pelindung Kerja', 'Hand Tools & Perkakas', 'Kertas HVS & ATK', 'Alat Kebersihan', 'Peralatan Gudang/Pallet', 'Lakban & Isolasi'];
                 @endphp
                 @foreach($chips as $chip)
                   <button
