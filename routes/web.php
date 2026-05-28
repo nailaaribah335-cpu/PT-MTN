@@ -9,6 +9,17 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/produk/{id}', function ($id) {
+    $products = config('products.items');
+    $product = collect($products)->firstWhere('id', $id);
+    
+    if (!$product) {
+        abort(404);
+    }
+    
+    return view('product-detail', ['product' => $product]);
+})->name('product.detail');
+
 // Temporary password reset route (DELETE THIS AFTER TESTING!)
 Route::get('/reset-password-temp', function () {
     if (env('APP_ENV') !== 'production') {
