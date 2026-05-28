@@ -17,10 +17,10 @@ class DatabaseSeeder extends Seeder
     {
         // User::factory(10)->create();
 
-        User::factory()->create([
+        User::create([
             'name' => 'Admin MTN',
             'email' => 'admin@mtn.com',
-            'password' => '123',
+            'password' => 'password123', // Will be automatically hashed by User model
         ]);
     }
 }
