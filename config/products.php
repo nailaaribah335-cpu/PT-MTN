@@ -90,7 +90,7 @@ return [
             'desc' => 'Pallet berbahan plastik HDPE yang kuat, tahan lama, dan anti-rayap untuk kebutuhan gudang dan logistik.',
             'min_order' => '10 Pcs',
             'features' => ['Kapasitas beban statis/dinamis tinggi', 'Mudah dibersihkan', 'Cocok untuk forklift & hand pallet'],
-            'image' => 'https://upload.wikimedia.org/wikipedia/commons/1/18/Pallet_%28example_1%29.jpg',
+            'image' => 'https://m.media-amazon.com/images/I/61X-uF7aR9L._AC_SL1500_.jpg',
             'is_best_seller' => true,
         ],
         [
@@ -194,7 +194,7 @@ return [
             'desc' => 'Penyedot debu basah & kering (Wet & Dry Vacuum) untuk perkantoran dan industri.',
             'min_order' => '1 Unit',
             'features' => ['Daya hisap kuat', 'Kapasitas tangki besar', 'Bisa untuk air dan debu kering'],
-            'image' => 'https://upload.wikimedia.org/wikipedia/commons/8/86/Vacuum_cleaner_by_K%C3%A4rcher.jpg',
+            'image' => 'https://m.media-amazon.com/images/I/71u9sWnI0KL._AC_SL1500_.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -204,7 +204,7 @@ return [
             'desc' => 'Sikat kloset, cairan pembersih, pengharum ruangan, dan kapur barus.',
             'min_order' => '5 Set',
             'features' => ['Membersihkan noda membandel', 'Menghilangkan bau tidak sedap', 'Sikat berdesain melengkung'],
-            'image' => 'https://upload.wikimedia.org/wikipedia/commons/8/87/Toilet_Brush.jpg',
+            'image' => 'https://m.media-amazon.com/images/I/71f-0eM+CPL._AC_SL1500_.jpg',
             'is_best_seller' => false,
         ],
         [
@@ -214,7 +214,7 @@ return [
             'desc' => 'Papan peringatan lantai basah (Caution Wet Floor) untuk keselamatan area publik.',
             'min_order' => '5 Pcs',
             'features' => ['Warna kuning terang mencolok', 'Desain lipat mudah disimpan', 'Tulisan peringatan bilingual'],
-            'image' => 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Wet_floor_sign.jpg',
+            'image' => 'https://m.media-amazon.com/images/I/71M27a00fTL._AC_SL1500_.jpg',
             'is_best_seller' => false,
         ],
     ]
