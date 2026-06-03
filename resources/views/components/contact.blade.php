@@ -19,7 +19,7 @@ $contactInfos = [
     [
         'icon' => 'mail',
         'title' => 'Email Resmi',
-        'detail' => 'info@muliatunggalnusantara.com',
+        'detail' => 'pt.muliaunggalnusantara@gmail.com',
         'desc' => 'Kirimkan proposal penawaran atau tender resmi',
         'isLink' => true,
         'href' => 'mailto:info@muliatunggalnusantara.com',
