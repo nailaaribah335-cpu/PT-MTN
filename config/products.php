@@ -184,7 +184,7 @@ return [
             'desc' => 'Kantong plastik sampah hitam (Polybag) berbagai ukuran untuk kebutuhan domestik dan medis.',
             'min_order' => '50 Pack',
             'features' => ['Bahan tebal tidak mudah sobek', 'Tersedia ukuran 40x60 hingga 120x150 cm', 'Ramah lingkungan (opsional)'],
-            'image' => 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Trash_bin_in_Paris.jpg',
+            'image' => 'kantong-sampah.jpeg', 
             'is_best_seller' => true,
         ],
         [
