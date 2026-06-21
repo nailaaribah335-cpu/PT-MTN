@@ -17,7 +17,7 @@ return [
             'desc' => 'Tersedia tipe Standar dan TEBAL. Ukuran lengkap dari kecil (40x50) hingga Super Jumbo (120x180).',
             'min_order' => '50 Pack',
             'features' => ['Bahan kuat anti bocor', 'Tipe standar untuk kantor/rumah', 'Tipe tebal untuk sampah berat/tajam'],
-            'image' => 'kantong-sampah.jpeg',
+            'image' => 'PlastikHitam.jpeg',
             'is_best_seller' => true,
         ],
 
