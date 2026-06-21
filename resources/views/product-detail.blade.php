@@ -58,7 +58,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-0">
                     
                     <!-- Product Image -->
-                    <div class="relative bg-slate-100 h-64 sm:h-96 md:h-full min-h-[300px]">
+                    <div class="relative bg-slate-100 h-64 sm:h-96 md:h-full min-h-75">
                     
                         @if($product['is_best_seller'] == true)
                         <div
@@ -68,7 +68,7 @@
                         </div>
                         @endif
                     
-                        <img src="{{ $product['image'] }}" alt="{{ $product['name'] }}"
+                        <img src="{{ asset($product['image']) }}" alt="{{ $product['name'] }}"
                             class="absolute inset-0 w-full h-full object-cover z-0">
                     </div>
 

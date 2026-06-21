@@ -104,7 +104,7 @@ $productList = config('products.items');
                   <!-- Product Image Frame -->
                   <div class="relative aspect-16/10 overflow-hidden bg-slate-100">
                     <img 
-                      src="{{ $prod['image'] }}" 
+                      src="{{ asset($prod['image']) }}" 
                       alt="{{ $prod['name'] }}"
                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                       loading="lazy"
